@@ -1,0 +1,18 @@
+// Line
+{
+  "urls": "http://*:9999",
+  "AppName": "9+1 Server",
+  "routefront": "demo",
+
+  "AppLogging": {
+    "LogLevel": {
+      "Default": "Warning",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Warning"
+    }
+  },
+
+  "AllowedHosts": "*",
+  "runtimeOptions": { "configProperties": { "System.Globalization.Invariant": true } }
+
+}

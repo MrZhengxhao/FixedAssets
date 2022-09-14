@@ -1,0 +1,279 @@
+﻿#Software: servertest
+#ProcessID: 41556 x64
+#AppDomain: servertest
+#FileName: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\servertest.exe
+#BaseDirectory: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\
+#CurrentDirectory: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.27
+#TempPath: C:\Users\ji\AppData\Local\Temp\
+#CommandLine: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\servertest.dll
+#ApplicationType: Console
+#CLR: 3.1.27, .NET Core 3.1.27
+#OS: Microsoft Windows NT 6.2.9200.0, DESKTOP-4GDVDS9/ji
+#CPU: 16
+#GC: IsServerGC=True, LatencyMode=Interactive
+#ThreadPool: Min=32/32, Max=32767/1000, Available=32766/1000
+#Date: 2022-08-30
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+12:30:11.291  1 N - JJY.NC.Core v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v3.1
+12:30:11.291  1 N - JJY.NC.Core 
+12:30:11.298  1 N - servertest v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v3.1
+12:30:11.298  1 N - servertest 
+12:30:11.298  1 N - 保存配置 G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\Config\XCode.config
+12:30:11.314  1 N - JJY.NC.Core v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v3.1
+12:30:11.320  1 N - JJY.NC.Core 
+12:30:11.358  1 N - 自动为[DbCache]设置SQLite连接字符串：Data Source=Data\DbCache.db;Migration=On
+12:30:11.374  1 N - DbCache 设定 Data Source=Data\DbCache.db;Migration=On
+12:30:11.951  1 N - Microsoft.Data.Sqlite驱动G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll 版本v3.1.0.0
+12:30:11.954  1 N - Data Source=G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\Data\DbCache.db
+12:30:11.954  1 N - DbCache 格式 Data Source=G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\Data\DbCache.db
+
+#Software: servertest
+#ProcessID: 40296 x64
+#AppDomain: servertest
+#FileName: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\servertest.exe
+#BaseDirectory: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\
+#CurrentDirectory: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.27
+#TempPath: C:\Users\ji\AppData\Local\Temp\
+#CommandLine: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\servertest.dll
+#ApplicationType: Console
+#CLR: 3.1.27, .NET Core 3.1.27
+#OS: Microsoft Windows NT 6.2.9200.0, DESKTOP-4GDVDS9/ji
+#CPU: 16
+#GC: IsServerGC=True, LatencyMode=Interactive
+#ThreadPool: Min=32/32, Max=32767/1000, Available=32766/1000
+#Date: 2022-08-30
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+12:36:10.538  1 N - JJY.NC.Core v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v3.1
+12:36:10.539  1 N - JJY.NC.Core 
+12:36:10.550  1 N - servertest v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v3.1
+12:36:10.551  1 N - servertest 
+12:36:10.551  1 N - JJY.NC.Core v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v3.1
+12:36:10.551  1 N - JJY.NC.Core 
+12:36:10.593  1 N - 自动为[DbCache]设置SQLite连接字符串：Data Source=Data\DbCache.db;Migration=On
+12:36:10.602  1 N - DbCache 设定 Data Source=Data\DbCache.db;Migration=On
+12:36:10.920  1 N - Microsoft.Data.Sqlite驱动G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll 版本v3.1.0.0
+12:36:10.922  1 N - Data Source=G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\Data\DbCache.db
+12:36:10.924  1 N - DbCache 格式 Data Source=G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\Data\DbCache.db
+
+#Software: servertest
+#ProcessID: 20328 x64
+#AppDomain: servertest
+#FileName: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\servertest.exe
+#BaseDirectory: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\
+#CurrentDirectory: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.27
+#TempPath: C:\Users\ji\AppData\Local\Temp\
+#CommandLine: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\servertest.dll
+#ApplicationType: Console
+#CLR: 3.1.27, .NET Core 3.1.27
+#OS: Microsoft Windows NT 6.2.9200.0, DESKTOP-4GDVDS9/ji
+#CPU: 16
+#GC: IsServerGC=True, LatencyMode=Interactive
+#ThreadPool: Min=32/32, Max=32767/1000, Available=32766/1000
+#Date: 2022-08-30
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+12:36:52.798  1 N - JJY.NC.Core v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v3.1
+12:36:52.798  1 N - JJY.NC.Core 
+12:36:52.809  1 N - servertest v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v3.1
+12:36:52.809  1 N - servertest 
+12:36:52.809  1 N - JJY.NC.Core v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v3.1
+12:36:52.809  1 N - JJY.NC.Core 
+12:36:52.849  1 N - 自动为[DbCache]设置SQLite连接字符串：Data Source=Data\DbCache.db;Migration=On
+12:36:52.858  1 N - DbCache 设定 Data Source=Data\DbCache.db;Migration=On
+12:36:53.182  1 N - Microsoft.Data.Sqlite驱动G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll 版本v3.1.0.0
+12:36:53.184  1 N - Data Source=G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\Data\DbCache.db
+12:36:53.184  1 N - DbCache 格式 Data Source=G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\Data\DbCache.db
+
+#Software: servertest
+#ProcessID: 41012 x64
+#AppDomain: servertest
+#FileName: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\servertest.exe
+#BaseDirectory: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\
+#CurrentDirectory: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.27
+#TempPath: C:\Users\ji\AppData\Local\Temp\
+#CommandLine: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\servertest.dll
+#ApplicationType: Console
+#CLR: 3.1.27, .NET Core 3.1.27
+#OS: Microsoft Windows NT 6.2.9200.0, DESKTOP-4GDVDS9/ji
+#CPU: 16
+#GC: IsServerGC=True, LatencyMode=Interactive
+#ThreadPool: Min=32/32, Max=32767/1000, Available=32766/1000
+#Date: 2022-08-30
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+12:39:17.064  1 N - JJY.NC.Core v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v3.1
+12:39:17.065  1 N - JJY.NC.Core 
+12:39:17.076  1 N - servertest v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v3.1
+12:39:17.077  1 N - servertest 
+12:39:17.077  1 N - JJY.NC.Core v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v3.1
+12:39:17.077  1 N - JJY.NC.Core 
+12:39:17.120  1 N - 自动为[DbCache]设置SQLite连接字符串：Data Source=Data\DbCache.db;Migration=On
+12:39:17.130  1 N - DbCache 设定 Data Source=Data\DbCache.db;Migration=On
+12:39:17.466  1 N - Microsoft.Data.Sqlite驱动G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll 版本v3.1.0.0
+12:39:17.468  1 N - Data Source=G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\Data\DbCache.db
+12:39:17.468  1 N - DbCache 格式 Data Source=G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\Data\DbCache.db
+12:40:17.946  4 Y T [MyDbCache@DbCache]非默认表名连接名，强制要求检查架构！
+12:40:17.946  4 Y T 集中初始化表架构时没赶上，现在补上！
+12:40:17.947  4 Y T 开始同步检查表[MyDbCache/SQLite]的数据表架构……
+12:40:17.949  4 Y T 创建数据库：DbCache
+12:40:17.951  4 Y T 创建数据库：G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\Data\DbCache.db
+12:40:18.009  4 Y T 创建表：MyDbCache(数据缓存)
+12:40:18.467  4 Y T 检查表[MyDbCache/SQLite]的数据表架构耗时518ms
+12:40:18.469  4 Y T 开始检查连接[DbCache/SQLite]的数据库架构……
+12:40:18.577  4 Y T [DbCache]的所有实体类（1个）：MyDbCache
+12:40:18.578  4 Y T [DbCache]需要检查架构的实体类（1个）：MyDbCache
+12:40:18.578  4 Y T 检查连接[DbCache/SQLite]的数据库架构耗时109ms
+
+#Software: servertest
+#ProcessID: 2032 x64
+#AppDomain: servertest
+#FileName: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\servertest.exe
+#BaseDirectory: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\
+#CurrentDirectory: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.27
+#TempPath: C:\Users\ji\AppData\Local\Temp\
+#CommandLine: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\servertest.dll
+#ApplicationType: Console
+#CLR: 3.1.27, .NET Core 3.1.27
+#OS: Microsoft Windows NT 6.2.9200.0, DESKTOP-4GDVDS9/ji
+#CPU: 16
+#GC: IsServerGC=True, LatencyMode=Interactive
+#ThreadPool: Min=32/32, Max=32767/1000, Available=32766/1000
+#Date: 2022-08-30
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+12:57:47.255  1 N - JJY.NC.Core v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v3.1
+12:57:47.256  1 N - JJY.NC.Core 
+12:57:47.270  1 N - servertest v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v3.1
+12:57:47.270  1 N - servertest 
+12:57:47.270  1 N - JJY.NC.Core v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v3.1
+12:57:47.271  1 N - JJY.NC.Core 
+12:57:47.317  1 N - 自动为[DbCache]设置SQLite连接字符串：Data Source=Data\DbCache.db;Migration=On
+12:57:47.327  1 N - DbCache 设定 Data Source=Data\DbCache.db;Migration=On
+12:57:47.654  1 N - Microsoft.Data.Sqlite驱动G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll 版本v3.1.0.0
+12:57:47.656  1 N - Data Source=G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\Data\DbCache.db
+12:57:47.656  1 N - DbCache 格式 Data Source=G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\Data\DbCache.db
+12:58:47.685 13 Y T [MyDbCache@DbCache]非默认表名连接名，强制要求检查架构！
+12:58:47.685 13 Y T 集中初始化表架构时没赶上，现在补上！
+12:58:47.686 13 Y T 开始同步检查表[MyDbCache/SQLite]的数据表架构……
+12:58:47.752 13 Y T 检查表[MyDbCache/SQLite]的数据表架构耗时64ms
+12:58:47.755 13 Y T 开始检查连接[DbCache/SQLite]的数据库架构……
+12:58:47.864 13 Y T [DbCache]的所有实体类（1个）：MyDbCache
+12:58:47.864 13 Y T [DbCache]需要检查架构的实体类（1个）：MyDbCache
+12:58:47.865 13 Y T 检查连接[DbCache/SQLite]的数据库架构耗时110ms
+
+#Software: servertest
+#ProcessID: 17996 x64
+#AppDomain: servertest
+#FileName: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\servertest.exe
+#BaseDirectory: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\
+#CurrentDirectory: G:\jjy\ncdemo\server\servertest\servertest
+#TempPath: C:\Users\ji\AppData\Local\Temp\
+#CommandLine: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\servertest.dll
+#ApplicationType: Console
+#CLR: 3.1.27, .NET Core 3.1.27
+#OS: Microsoft Windows NT 6.2.9200.0, DESKTOP-4GDVDS9/ji
+#CPU: 16
+#GC: IsServerGC=True, LatencyMode=Interactive
+#ThreadPool: Min=32/32, Max=32767/1000, Available=32766/1000
+#Date: 2022-08-30
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+13:03:36.445  1 N - JJY.NC.Core v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v3.1
+13:03:36.446  1 N - JJY.NC.Core 
+13:03:36.459  1 N - servertest v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v3.1
+13:03:36.459  1 N - servertest 
+
+#Software: servertest
+#ProcessID: 46700 x64
+#AppDomain: servertest
+#FileName: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\servertest.exe
+#BaseDirectory: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\
+#CurrentDirectory: G:\jjy\ncdemo\server\servertest\servertest
+#TempPath: C:\Users\ji\AppData\Local\Temp\
+#CommandLine: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\servertest.dll
+#ApplicationType: Console
+#CLR: 3.1.27, .NET Core 3.1.27
+#OS: Microsoft Windows NT 6.2.9200.0, DESKTOP-4GDVDS9/ji
+#CPU: 16
+#GC: IsServerGC=True, LatencyMode=Interactive
+#ThreadPool: Min=32/32, Max=32767/1000, Available=32766/1000
+#Date: 2022-08-30
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+13:04:48.116  1 N - JJY.NC.Core v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v3.1
+13:04:48.116  1 N - JJY.NC.Core 
+13:04:48.124  1 N - servertest v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v3.1
+13:04:48.125  1 N - servertest 
+
+#Software: servertest
+#ProcessID: 18748 x64
+#AppDomain: servertest
+#FileName: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\servertest.exe
+#BaseDirectory: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\
+#CurrentDirectory: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.27
+#TempPath: C:\Users\ji\AppData\Local\Temp\
+#CommandLine: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\servertest.dll
+#ApplicationType: Console
+#CLR: 3.1.27, .NET Core 3.1.27
+#OS: Microsoft Windows NT 6.2.9200.0, DESKTOP-4GDVDS9/ji
+#CPU: 16
+#GC: IsServerGC=True, LatencyMode=Interactive
+#ThreadPool: Min=32/32, Max=32767/1000, Available=32766/1000
+#Date: 2022-08-30
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+13:05:19.527  1 N - JJY.NC.Core v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v3.1
+13:05:19.528  1 N - JJY.NC.Core 
+13:05:19.536  1 N - servertest v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v3.1
+13:05:19.541  1 N - servertest 
+13:05:19.542  1 N - JJY.NC.Core v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v3.1
+13:05:19.542  1 N - JJY.NC.Core 
+13:05:19.583  1 N - 自动为[DbCache]设置SQLite连接字符串：Data Source=Data\DbCache.db;Migration=On
+13:05:19.592  1 N - DbCache 设定 Data Source=Data\DbCache.db;Migration=On
+13:05:19.725  1 N - Microsoft.Data.Sqlite.dll不存在或平台版本不正确，准备联网获取 http://x.newlifex.com/
+13:05:19.741  1 N - 下载链接 http://x.newlifex.com/，目标 Microsoft.Data.Sqlite.win-x64,Microsoft.Data.Sqlite.win
+13:05:19.789 13 Y 1 WebClientX.Get http://x.newlifex.com/
+13:05:20.603  1 N - 未找到  Microsoft.Data.Sqlite.dll
+13:05:20.645  1 N - System.Data.SQLite.dll不存在或平台版本不正确，准备联网获取 http://x.newlifex.com/
+13:05:20.645  1 N - 下载链接 http://x.newlifex.com/，目标 System.Data.SQLite.win-x64,System.Data.SQLite.win,System.Data.SQLite
+13:05:20.646 12 Y 19 WebClientX.Get http://x.newlifex.com/
+13:05:20.835  1 N - 分析得到文件 System.Data.SQLite.win-x64_20220621.zip，准备下载 http://x.newlifex.com/System.Data.SQLite.win-x64_20220621.zip，保存到 G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\Plugins\System.Data.SQLite.win-x64_20220621.zip
+13:05:20.836  4 Y 37 WebClientX.Get http://x.newlifex.com/System.Data.SQLite.win-x64_20220621.zip
+13:05:21.166  1 N - 下载完成，共1,045,867字节，耗时329毫秒
+13:05:21.166  1 N - 解压缩到 G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\Plugins
+13:05:21.286  1 N - TypeX.GetType("System.Data.SQLite.SQLiteFactory") => Plugins\System.Data.SQLite.dll
+13:05:21.287  1 N - System.Data.SQLite驱动G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\Plugins\System.Data.SQLite.dll 版本v1.0.116.0
+13:05:21.321  1 N - Data Source=G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\Data\DbCache.db;Cache Size=-524288;Synchronous=Off;Journal Mode=WAL
+13:05:21.322  1 N - DbCache 格式 Data Source=G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\Data\DbCache.db;Cache Size=-524288;Synchronous=Off;Journal Mode=WAL
+
+#Software: servertest
+#ProcessID: 40420 x64
+#AppDomain: servertest
+#FileName: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\servertest.exe
+#BaseDirectory: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\
+#CurrentDirectory: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.27
+#TempPath: C:\Users\ji\AppData\Local\Temp\
+#CommandLine: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\servertest.dll
+#ApplicationType: Console
+#CLR: 3.1.27, .NET Core 3.1.27
+#OS: Microsoft Windows NT 6.2.9200.0, DESKTOP-4GDVDS9/ji
+#CPU: 16
+#GC: IsServerGC=True, LatencyMode=Interactive
+#ThreadPool: Min=32/32, Max=32767/1000, Available=32766/1000
+#Date: 2022-08-30
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+13:05:44.476  1 N - JJY.NC.Core v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v3.1
+13:05:44.477  1 N - JJY.NC.Core 
+13:05:44.483  1 N - servertest v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v3.1
+13:05:44.487  1 N - servertest 
+13:05:44.487  1 N - JJY.NC.Core v1.0.0 Build 2000-01-01 .NETCoreApp,Version=v3.1
+13:05:44.487  1 N - JJY.NC.Core 
+13:05:44.528  1 N - 自动为[DbCache]设置SQLite连接字符串：Data Source=Data\DbCache.db;Migration=On
+13:05:44.537  1 N - DbCache 设定 Data Source=Data\DbCache.db;Migration=On
+13:05:44.736  1 N - TypeX.GetType("System.Data.SQLite.SQLiteFactory") => Plugins\System.Data.SQLite.dll
+13:05:44.737  1 N - System.Data.SQLite.SQLite驱动G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\Plugins\System.Data.SQLite.dll 版本v1.0.116.0
+13:05:44.767  1 N - Data Source=G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\Data\DbCache.db;Cache Size=-524288;Synchronous=Off;Journal Mode=WAL
+13:05:44.775  1 N - DbCache 格式 Data Source=G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\Data\DbCache.db;Cache Size=-524288;Synchronous=Off;Journal Mode=WAL

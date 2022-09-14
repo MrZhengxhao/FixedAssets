@@ -1,0 +1,56 @@
+﻿#Software: servertest
+#ProcessID: 17996 x64
+#AppDomain: servertest
+#FileName: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\servertest.exe
+#BaseDirectory: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\
+#CurrentDirectory: G:\jjy\ncdemo\server\servertest\servertest
+#TempPath: C:\Users\ji\AppData\Local\Temp\
+#CommandLine: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\servertest.dll
+#ApplicationType: Console
+#CLR: 3.1.27, .NET Core 3.1.27
+#OS: Microsoft Windows NT 6.2.9200.0, DESKTOP-4GDVDS9/ji
+#CPU: 16
+#GC: IsServerGC=True, LatencyMode=Interactive
+#ThreadPool: Min=32/32, Max=32767/1000, Available=32767/1000
+#Date: 2022-08-30
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+13:03:36.513  1 N - 异常退出！
+
+#Software: servertest
+#ProcessID: 46700 x64
+#AppDomain: servertest
+#FileName: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\servertest.exe
+#BaseDirectory: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\
+#CurrentDirectory: G:\jjy\ncdemo\server\servertest\servertest
+#TempPath: C:\Users\ji\AppData\Local\Temp\
+#CommandLine: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\servertest.dll
+#ApplicationType: Console
+#CLR: 3.1.27, .NET Core 3.1.27
+#OS: Microsoft Windows NT 6.2.9200.0, DESKTOP-4GDVDS9/ji
+#CPU: 16
+#GC: IsServerGC=True, LatencyMode=Interactive
+#ThreadPool: Min=32/32, Max=32767/1000, Available=32767/1000
+#Date: 2022-08-30
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+13:04:48.179  1 N - 异常退出！
+
+#Software: servertest
+#ProcessID: 18748 x64
+#AppDomain: servertest
+#FileName: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\servertest.exe
+#BaseDirectory: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\
+#CurrentDirectory: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.27
+#TempPath: C:\Users\ji\AppData\Local\Temp\
+#CommandLine: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\servertest.dll
+#ApplicationType: Console
+#CLR: 3.1.27, .NET Core 3.1.27
+#OS: Microsoft Windows NT 6.2.9200.0, DESKTOP-4GDVDS9/ji
+#CPU: 16
+#GC: IsServerGC=True, LatencyMode=Interactive
+#ThreadPool: Min=32/32, Max=32767/1000, Available=32767/1000
+#Date: 2022-08-30
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+13:05:21.693  1 N - 异常退出！

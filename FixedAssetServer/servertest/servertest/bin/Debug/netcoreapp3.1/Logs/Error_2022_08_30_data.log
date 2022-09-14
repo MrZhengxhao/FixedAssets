@@ -1,0 +1,82 @@
+﻿#Software: servertest
+#ProcessID: 17996 x64
+#AppDomain: servertest
+#FileName: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\servertest.exe
+#BaseDirectory: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\
+#CurrentDirectory: G:\jjy\ncdemo\server\servertest\servertest
+#TempPath: C:\Users\ji\AppData\Local\Temp\
+#CommandLine: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\servertest.dll
+#ApplicationType: Console
+#CLR: 3.1.27, .NET Core 3.1.27
+#OS: Microsoft Windows NT 6.2.9200.0, DESKTOP-4GDVDS9/ji
+#CPU: 16
+#GC: IsServerGC=True, LatencyMode=Interactive
+#ThreadPool: Min=32/32, Max=32767/1000, Available=32767/1000
+#Date: 2022-08-30
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+13:03:36.511  1 N - System.IO.FileNotFoundException: Could not load file or assembly 'System.Text.Encoding.CodePages, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'. 系统找不到指定的文件。
+File name: 'System.Text.Encoding.CodePages, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+   at JJY.NC.Core.Starts.StartService.Start[T](String[] args, Assembly[] assbs)
+   at System.StarterHelper.Start(String[] args) in G:\jjy\ncdemo\server\JJY.NC.Core\Starts\StartService.cs:line 767
+   at servertest.Program.Main(String[] args) in G:\jjy\ncdemo\server\servertest\servertest\Program.cs:line 16
+
+
+
+#Software: servertest
+#ProcessID: 46700 x64
+#AppDomain: servertest
+#FileName: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\servertest.exe
+#BaseDirectory: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\
+#CurrentDirectory: G:\jjy\ncdemo\server\servertest\servertest
+#TempPath: C:\Users\ji\AppData\Local\Temp\
+#CommandLine: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\servertest.dll
+#ApplicationType: Console
+#CLR: 3.1.27, .NET Core 3.1.27
+#OS: Microsoft Windows NT 6.2.9200.0, DESKTOP-4GDVDS9/ji
+#CPU: 16
+#GC: IsServerGC=True, LatencyMode=Interactive
+#ThreadPool: Min=32/32, Max=32767/1000, Available=32767/1000
+#Date: 2022-08-30
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+13:04:48.177  1 N - System.IO.FileNotFoundException: Could not load file or assembly 'System.Text.Encoding.CodePages, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'. 系统找不到指定的文件。
+File name: 'System.Text.Encoding.CodePages, Version=5.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+   at JJY.NC.Core.Starts.StartService.Start[T](String[] args, Assembly[] assbs)
+   at System.StarterHelper.Start(String[] args) in G:\jjy\ncdemo\server\JJY.NC.Core\Starts\StartService.cs:line 767
+   at servertest.Program.Main(String[] args) in G:\jjy\ncdemo\server\servertest\servertest\Program.cs:line 16
+
+
+
+#Software: servertest
+#ProcessID: 18748 x64
+#AppDomain: servertest
+#FileName: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\servertest.exe
+#BaseDirectory: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\
+#CurrentDirectory: C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.27
+#TempPath: C:\Users\ji\AppData\Local\Temp\
+#CommandLine: G:\jjy\ncdemo\server\servertest\servertest\bin\Debug\netcoreapp3.1\servertest.dll
+#ApplicationType: Console
+#CLR: 3.1.27, .NET Core 3.1.27
+#OS: Microsoft Windows NT 6.2.9200.0, DESKTOP-4GDVDS9/ji
+#CPU: 16
+#GC: IsServerGC=True, LatencyMode=Interactive
+#ThreadPool: Min=32/32, Max=32767/1000, Available=32767/1000
+#Date: 2022-08-30
+#字段: 时间 线程ID 线程池Y/网页W/普通N/定时T 线程名/任务ID 消息内容
+#Fields: Time ThreadID Kind Name Message
+13:05:21.691  1 N - System.IO.FileNotFoundException: Could not load file or assembly 'Microsoft.Extensions.DependencyInjection.Abstractions, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'. 系统找不到指定的文件。
+File name: 'Microsoft.Extensions.DependencyInjection.Abstractions, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60'
+   at System.Signature.GetSignature(Void* pCorSig, Int32 cCorSig, RuntimeFieldHandleInternal fieldHandle, IRuntimeMethodInfo methodHandle, RuntimeType declaringType)
+   at System.Reflection.RuntimeMethodInfo.get_ReturnType()
+   at Microsoft.AspNetCore.Hosting.StartupLoader.FindMethod(Type startupType, String methodName, String environmentName, Type returnType, Boolean required)
+   at Microsoft.AspNetCore.Hosting.StartupLoader.HasConfigureServicesIServiceProviderDelegate(Type startupType, String environmentName)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.UseStartup(Type startupType, HostBuilderContext context, IServiceCollection services)
+   at Microsoft.AspNetCore.Hosting.GenericWebHostBuilder.<>c__DisplayClass12_0.<UseStartup>b__0(HostBuilderContext context, IServiceCollection services)
+   at Microsoft.Extensions.Hosting.HostBuilder.CreateServiceProvider()
+   at Microsoft.Extensions.Hosting.HostBuilder.Build()
+   at JJY.NC.Core.Starts.StartService.Start[T](String[] args, Assembly[] assbs) in G:\jjy\ncdemo\server\JJY.NC.Core\Starts\StartService.cs:line 148
+   at System.StarterHelper.Start(String[] args) in G:\jjy\ncdemo\server\JJY.NC.Core\Starts\StartService.cs:line 767
+   at servertest.Program.Main(String[] args) in G:\jjy\ncdemo\server\servertest\servertest\Program.cs:line 16
+
+

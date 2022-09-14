@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ryzdMyB+hXC/BKav1dZ7NvYLtwHAG8DgGzE09V5CxaiaoyfakDQ3DOUHP4CaHpA2glFY2Et8BdJM2iI3MMnOew==",
+  "success": true,
+  "projectFilePath": "D:\\功能\\微信\\缓存\\WeChat Files\\wxid_m3o1shjaep1w21\\FileStorage\\File\\2022-08\\ncdemo\\ncdemo\\server\\servertest\\servertest\\FixedAssetsService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\极限特工\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\极限特工\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\极限特工\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
